@@ -60,6 +60,17 @@
 
 
 
+## Desafio:Pontos na Carteira:
+
+![image](https://user-images.githubusercontent.com/92825608/229928654-1e60bb9f-52aa-4c29-9fbb-b61a13844a06.png)
+
+*** Saída: ***
+
+![image](https://user-images.githubusercontent.com/92825608/229928767-99c70f3e-c836-4f80-bb8f-0816d9f8c679.png)/
+![image](https://user-images.githubusercontent.com/92825608/229928858-48e41962-20a0-41ad-919c-61d2ea87e63b.png)/
+![image](https://user-images.githubusercontent.com/92825608/229928967-4458603e-ef2b-4675-b29c-62d213a98fdd.png)
+
+
 
 
 
