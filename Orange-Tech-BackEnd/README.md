@@ -14,6 +14,12 @@
 
 ![image](https://user-images.githubusercontent.com/92825608/229837352-5e72046f-a072-4530-bf63-61d884840038.png)  *** Saída: *** ![image](https://user-images.githubusercontent.com/92825608/229837499-29cef315-ef8d-4ac3-b650-1ef61d34d61b.png) / ![image](https://user-images.githubusercontent.com/92825608/229837628-18ed0b16-acb3-4eca-b1ad-417954b09547.png) / ![image](https://user-images.githubusercontent.com/92825608/229837935-550c48c1-9ac8-4556-a68a-edef05231515.png)
 
+## Desafio: Leitura da Gertrudes:
+
+![image](https://user-images.githubusercontent.com/92825608/229896486-815e24e2-f422-4852-9845-87768cabb971.png) *** Saída: *** ![image](https://user-images.githubusercontent.com/92825608/229896574-ae33da88-13c6-45d8-a087-1536c993e8a6.png) / ![image](https://user-images.githubusercontent.com/92825608/229896707-bb0c2521-8f11-474b-8f1f-a2f65ae8e993.png) / ![image](https://user-images.githubusercontent.com/92825608/229896770-720e8347-21eb-4661-9c01-09433495a47c.png)
+
+
+
 
 
 
