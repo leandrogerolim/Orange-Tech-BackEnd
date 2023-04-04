@@ -18,6 +18,9 @@
 
 ![image](https://user-images.githubusercontent.com/92825608/229896486-815e24e2-f422-4852-9845-87768cabb971.png) *** Saída: *** ![image](https://user-images.githubusercontent.com/92825608/229896574-ae33da88-13c6-45d8-a087-1536c993e8a6.png) / ![image](https://user-images.githubusercontent.com/92825608/229896707-bb0c2521-8f11-474b-8f1f-a2f65ae8e993.png) / ![image](https://user-images.githubusercontent.com/92825608/229896770-720e8347-21eb-4661-9c01-09433495a47c.png)
 
+## Desafio: Lojinha de Doces:
+![image](https://user-images.githubusercontent.com/92825608/229898400-8f189faa-3010-4a12-ad1e-182ff53bee48.png) *** Saída: *** ![image](https://user-images.githubusercontent.com/92825608/229898297-04589ac3-5ebf-4fcb-8169-071905dca546.png) / ![image](https://user-images.githubusercontent.com/92825608/229898532-4c44a526-3ac3-442b-a8a0-8b0c1c54b709.png) / ![image](https://user-images.githubusercontent.com/92825608/229898603-c21e4aaf-47e5-4696-b249-d92508e49cee.png)
+
 
 
 
