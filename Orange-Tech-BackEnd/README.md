@@ -3,7 +3,10 @@
 ## Orange Tech + | BackEnd JAVA
 
 
+
 ![image](https://user-images.githubusercontent.com/92825608/229826962-907aa9f6-488d-4619-a212-825f7d71213d.png)
+
+### [Link Orange-Tech-BackEnd/Orange-Tech-BackEnd/src/](https://github.com/leandrogerolim/Orange-Tech-BackEnd/tree/main/Orange-Tech-BackEnd/src)
 
 # DESAFIOS: 
 ## Desafio: Mesada do Sobrinho:
@@ -89,6 +92,19 @@
 ![image](https://user-images.githubusercontent.com/92825608/229952004-bdfa913b-be25-4c8f-afe9-94d4892f26de.png)/
 ![image](https://user-images.githubusercontent.com/92825608/229952058-e2c88d84-7cba-4e8a-a491-3624e0894f3e.png)/
 ![image](https://user-images.githubusercontent.com/92825608/229952087-c5136657-05b3-4a21-a46b-711cc890bc6d.png)
+
+## Desafio: Camarote do Blue Cold Ice Cubes:
+
+![image](https://user-images.githubusercontent.com/92825608/229954590-94cb1c84-5efa-4620-8dbd-cb7f720a9f25.png)
+
+
+*** Saída: ***
+
+![image](https://user-images.githubusercontent.com/92825608/229954653-16a8888c-a963-45f9-afff-28dda71a31bc.png)/
+![image](https://user-images.githubusercontent.com/92825608/229954687-82cccbb9-9d70-4935-b168-5a351dc84899.png)/
+![image](https://user-images.githubusercontent.com/92825608/229954763-371606ce-e8cb-4c34-b8a8-c879b91a2ee8.png)
+
+
 
 
 
