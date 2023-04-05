@@ -9,13 +9,10 @@ public class DesafioCamaroteDoBlueColdIceCubes {
         for (int i = 0; i <= tamanhoDaFila; i++) {
 
             if (i % 2 != 0) {
-
                 pessoasNoCamarote++;
             }
-
         }
         System.out.println(pessoasNoCamarote + " pessoas no camarote");
     }
-
 }
 
