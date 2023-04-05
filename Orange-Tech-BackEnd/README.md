@@ -60,7 +60,7 @@
 
 
 
-## Desafio:Pontos na Carteira:
+## Desafio: Pontos na Carteira:
 
 ![image](https://user-images.githubusercontent.com/92825608/229928654-1e60bb9f-52aa-4c29-9fbb-b61a13844a06.png)
 
@@ -70,7 +70,25 @@
 ![image](https://user-images.githubusercontent.com/92825608/229928858-48e41962-20a0-41ad-919c-61d2ea87e63b.png)/
 ![image](https://user-images.githubusercontent.com/92825608/229928967-4458603e-ef2b-4675-b29c-62d213a98fdd.png)
 
+## Desafio: Imóveis Disponíveis:
 
+![image](https://user-images.githubusercontent.com/92825608/229949723-6bbc6ba1-9678-4722-b962-321c45384644.png)
+
+*** Saída: ***
+
+![image](https://user-images.githubusercontent.com/92825608/229949887-1ff46b46-cb6e-4eed-a9f4-92e0d9155d2f.png)/
+![image](https://user-images.githubusercontent.com/92825608/229949977-bc3577e6-af94-453b-993d-3c7d41216673.png)
+
+
+## Desafio: Dc Monalds:
+
+![image](https://user-images.githubusercontent.com/92825608/229951945-a3f44a8f-c18e-413d-872f-506a6fe1b075.png)
+
+*** Saída: ***
+
+![image](https://user-images.githubusercontent.com/92825608/229952004-bdfa913b-be25-4c8f-afe9-94d4892f26de.png)/
+![image](https://user-images.githubusercontent.com/92825608/229952058-e2c88d84-7cba-4e8a-a491-3624e0894f3e.png)/
+![image](https://user-images.githubusercontent.com/92825608/229952087-c5136657-05b3-4a21-a46b-711cc890bc6d.png)
 
 
 
